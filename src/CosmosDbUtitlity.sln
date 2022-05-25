@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDbUtitlity.GUI", "CosmosDbUtitlity.GUI\CosmosDbUtitlity.GUI.csproj", "{14396113-ABD5-4A69-91F9-5D5DAF4CF771}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14396113-ABD5-4A69-91F9-5D5DAF4CF771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14396113-ABD5-4A69-91F9-5D5DAF4CF771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14396113-ABD5-4A69-91F9-5D5DAF4CF771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14396113-ABD5-4A69-91F9-5D5DAF4CF771}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20C91388-BDE3-45E6-AC76-CA85F64B64BF}
+	EndGlobalSection
+EndGlobal
